@@ -16,5 +16,5 @@ int main() {
     avereg = (float)mone/3;
     printf("the avereg is :%.2f",avereg);
 
-    return 0; 
+    
 }
